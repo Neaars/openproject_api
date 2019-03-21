@@ -1,0 +1,4 @@
+﻿{
+    "connectionString": "hmongodb+srv://newuser:openproject@cluster0-fp6yo.mongodb.net/test",
+    "secret": "teeest_blabla"
+}
